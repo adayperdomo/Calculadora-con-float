@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+}
+
+#calculadora{
+    border: black 5px solid;
+    background-color: lightgray;
+    width: 500px;
+    text-align: center;
+    top: 50px;
+    right: 0; 
+    bottom: 10; 
+    left: 0;
+    position: absolute;
+    margin: auto;
+    height: auto;
+
+}
+
+#pantalla{
+    padding: 40px;
+    border: black 1px solid;
+    margin: 4px;
+    background-color: white;
+}
+
+#teclado{
+    
+}
+
+#teclado div{
+    
+}
+
+#teclado div div{
+    border: black 1px solid;
+    font-size: 50px;
+    float: left;
+    padding: 10px;
+    margin: 5px;
+    width: 110px;
+    font-weight: bold;
+}
